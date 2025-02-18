@@ -1,4 +1,0 @@
-export function tokenValidation(token){
-    // token:'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI2MGUzMzQ1NTI4MTZmZDQ2NTg1ZTJjNDM2Y2M3Y2UxMyIsIm5iZiI6MTcyMjg1NTc3Ny4zNjgyMDIsInN1YiI6IjY2YjBhZTZkMzYwYjY4Y2Q4MTNhMjA4ZiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.mxOL00K5_EdiR0e18l-XIgjdA5OhNgpFRqsmu-444Tc'
-    return true
-}
